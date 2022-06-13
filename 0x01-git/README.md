@@ -1,2 +1,1 @@
-This is the readme file
-in main branch
+This is the read me file
